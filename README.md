@@ -4,11 +4,11 @@ This project presents a modern tech store website created to help users explore 
 
 ## 🚀 Live Preview
 Live Demo:
-[Demo]https://vtmnkmarta.github.io/layout_landing-page/
+[Demo](https://vtmnkmarta.github.io/layout_bang-and-olufsen/)
 
 ## 🎨 Design Reference
 The layout was developed based on Figma design:
-[Design](https://www.figma.com/design/BUusqCIMAWALqfBahnyIiH/Phone-catalog--V2--Original-Dark?node-id=0-1&p=f&t=S1YvaJx4T4nP0jFv-0)
+[Design](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-212&t=Qy6UeCAbUpP8CmJG-0)
 
 ## 🛠️ Technologies Used
 HTML · SCSS (BEM) · Tailwind CSS · CSS Grid / Flexbox · Git & GitHub
@@ -17,17 +17,17 @@ HTML · SCSS (BEM) · Tailwind CSS · CSS Grid / Flexbox · Git & GitHub
 To run the project locally:
 
 1. Clone the repository:
-git clone https://github.com/vtmnkmarta/layout_landing-page.git
+git clone https://github.com/vtmnkmarta/layout_bang-and-olufsen.git
 cd layout_landing-page
 
 2. Install dependencies:
 npm install
-# or
+or
 yarn install
 
 3. Run the project:
 npm start
-# or
+or
 yarn start
 
 ## ✅ Features
